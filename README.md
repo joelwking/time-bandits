@@ -3,7 +3,7 @@ Learn To Think Like A Computer Scientist.
 
 World Wide Technology's Network Solutions Team meeting is in August 2017 and is attended by network engineers from Sales, Business Development, IT and Professional Services.
 
-My talk is titled, _Learn To Think Like A Computer Scientist_, the goal is to introduce network engineers to the development of algorithms necessary to effectively interface with a device API.
+My presentation (18 minute TED talk format) is titled, _Learn To Think Like A Computer Scientist_, the goal is to introduce network engineers to the development of algorithms necessary to effectively interface with a device API. The slide deck is available on Slideshare [learn-to-think-like-a-computer-scientist](https://www.slideshare.net/joelwking/learn-to-think-like-a-computer-scientist). 
 
 To demonstrate a real-world use case, we have the following requirement.
 
@@ -13,4 +13,4 @@ The security operations center (SOC) wishes to query Tetration for flows between
 Write an algorithm which accepts a start and end time in iso8601 format, e.g. "2017-03-27T09:00:00-0700" to "2017-05-27T09:00:00-0700" and outputs a list of start/stop times which comprise the entire timeframe specified by the SOC, but does not exceed the 1 day limitation imposed by the API.
 
 ## Outcome
-I am soliciting solutions to this problem in various programming languages. If you are interested in contributing to this effort, please contribute.
+I am soliciting solutions to this problem in various programming languages. Thanks for those who contributed.
